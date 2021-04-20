@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/swathivB/Web-devlopment.git
+- Live Site URL: https://swathivb.github.io/Web-design/
 
 ## My process
 
