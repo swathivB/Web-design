@@ -11,8 +11,8 @@ body{
   background-color: hsl(244, 38%, 16%);
   text-align: center;
   position: absolute;
-  left:250px;
-  top: 150px;
+  left:200px;
+  top: 100px;
 }
 .heading{
   color: hsl(0, 0%, 100%);
@@ -45,15 +45,14 @@ font-family: 'Inter', sans-serif;
 }
 .b{
 padding:0 30px 0  0;
-  text-align: left;
+
 }
 .c{
 padding:0 30px 0 50px;
-  text-align: left;
+  t
 }
 .d{
 padding:0 30px 0 60px;
-  text-align: left;
 }
 .footer1{
   color: hsla(0, 0%, 100%, 0.6);
@@ -71,15 +70,16 @@ padding:0 30px 0 60px;
 }
 .image{
   position: absolute;
-  right:250px;
-  top: 150px;
+  right:200px;
+  top: 100px;
 cursor: pointer;
+
 
 }
 .co{
   position: absolute;
-  right:250px;
-  top: 150px;
+  right:200px;
+  top: 100px;
   height: 446px;
   width:540px;
   background-color: #6a1b9a8F;
