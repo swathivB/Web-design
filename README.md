@@ -57,11 +57,6 @@ To see how you can add code snippets, see below:
 }
 ```
 
-### Continued development
-
-Use this section to outline areas that you want to continue focusing on in future projects. These could be concepts you're still not completely comfortable with or techniques you found useful that you want to refine and perfect.
-
-
 ### Useful resources
 
 - https://www.w3schools.com/css/default.asp - This is CSS tutorial. I really liked this pattern and will use it going forward.
