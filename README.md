@@ -7,12 +7,8 @@
 - [My process](#my-process)
   - [Built with](#built-with)
   - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
 - [Author](#author)
-- [Acknowledgments](#acknowledgments)
-
-**Note: Delete this note and update the table of contents based on what sections you keep.**
 
 ## Overview
 
@@ -60,12 +56,6 @@ To see how you can add code snippets, see below:
   background-color: #6a1b9a8F;
 }
 ```
-```js
-const proudOfThisFunc = () => {
-  console.log('🎉')
-}
-```
-
 
 ### Continued development
 
@@ -74,13 +64,12 @@ Use this section to outline areas that you want to continue focusing on in futur
 
 ### Useful resources
 
-- [Example resource 1](https://www.example.com) - This helped me for XYZ reason. I really liked this pattern and will use it going forward.
-- [Example resource 2](https://www.example.com) - This is an amazing article which helped me finally understand XYZ. I'd recommend it to anyone still learning this concept.
+- https://www.w3schools.com/css/default.asp - This is CSS tutorial. I really liked this pattern and will use it going forward.
+
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@swathivB]
 
 
 
