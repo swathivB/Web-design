@@ -37,25 +37,8 @@ Users should be able to:
 - [Styled Components](https://styled-components.com/) - For styles
 
 
-### What I learned
+.
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1 class="heading">Get <span class="a">insights</span> that help your business grow. </h1>
-```
-```css
-.co{
-  position: absolute;
-  right:250px;
-  top: 150px;
-  height: 446px;
-  width:540px;
-  background-color: #6a1b9a8F;
-}
-```
 
 ### Useful resources
 
